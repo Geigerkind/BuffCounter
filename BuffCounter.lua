@@ -19,7 +19,7 @@ function BuffCounter:BuffAmount()
 	local a = 0
 	for i=1, 32 do
 		local b,_ = UnitBuff("player", i, "HELPFUL")
-		if not b then a=i; break end
+		if not b then a=i-1; break end
 	end
 	return a or 0
 end
