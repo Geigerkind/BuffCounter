@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: BuffCounter |cFFFF8080-Shino-|r
+## Notes: It just shows you how many buffs you currently have.
+## Author: Shino <Synced> - Kronos
+## SavedVariablesPerCharacter: BuffCounterToggle
+## Version: 0.1
+
+BuffCounter.lua
+BuffCounter.xml
