@@ -1,5 +1,5 @@
 BuffCounter = {}
-
+ 
 function BuffCounter:OnLoad()
 	BuffCounter:SendMessage("TEST!")
 	SLASH_BuffCounter1 = "/bc"
